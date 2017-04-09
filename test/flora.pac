@@ -2,7 +2,7 @@
 
 var proxies = [null,"DIRECT","DIRECT","SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT","SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080"];
 var domains = {
-    # 白名单
+//白名单
 "cn":2,
 "baidu.com":2,
 "v2ex.com":2,
