@@ -351,6 +351,7 @@ var domains = {
 "zhimg.com":2,
 "zhubajie.com":2,
 "zongheng.com":2,
+"jd.hk":2,
 
 //黑名单
 
