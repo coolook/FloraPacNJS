@@ -6,6 +6,11 @@
 ! Expires: 4 days (update frequency)
 ! Redirect: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
 ! Homepage: http://abpchina.org/
+!排除
+@@linkstars.com
+
+！
+！
 &ad_type=
 &ad_url=
 &ad_zones=
