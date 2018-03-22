@@ -375,6 +375,7 @@ var domains = {
 "feedly.com":3,
 
 "twitter.com":3,
+"onejav.com":3,
 "facebook.com":3};
 
 
